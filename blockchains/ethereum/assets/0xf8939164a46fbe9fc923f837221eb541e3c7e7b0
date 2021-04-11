@@ -1,0 +1,21 @@
+{
+
+    "name": "Penky",
+
+    "website": "https://penky.io",
+
+    "description": "Penky is the solution for entrepreneurs to integrate DeFi and the NFT industry into existing traditional physical and digital infrastructures.",
+
+    "explorer": "https://etherscan.io/token/0xf8939164a46fbe9fc923f837221eb541e3c7e7b0?a=0xb92813b0ce9f96f870b864f3cb7024cd7051f794",
+
+    "type": "ERC20",
+
+    "symbol": "PENKY",
+
+    "decimals": 18,
+
+    "status": "active",
+
+    "id": "0x924ABbf9f32D89d440A2eb345A52b82cf88397e2"
+
+}
